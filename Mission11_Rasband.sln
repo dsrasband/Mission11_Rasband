@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission11_Rasband", "Mission11_Rasband.csproj", "{EBC6C902-23A9-4719-9B50-7CEB1FB9931F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC6C902-23A9-4719-9B50-7CEB1FB9931F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC6C902-23A9-4719-9B50-7CEB1FB9931F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC6C902-23A9-4719-9B50-7CEB1FB9931F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC6C902-23A9-4719-9B50-7CEB1FB9931F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A400C3FD-BEFD-4D79-89CF-44303B8C6255}
+	EndGlobalSection
+EndGlobal
